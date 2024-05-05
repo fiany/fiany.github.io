@@ -1,15 +1,14 @@
 {
     "sites": [
         {
-            "key": "Czsapp",
-            "name": "厂长",
+            "key": "csp_MLYS",
+            "name": "毛驴",
             "type": 3,
-            "api": "csp_Czsapp",
-            "playerType": 2,
+            "api": "csp_MLYS",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://www.czzy66.com/"
+            "ext": "https://www.maolvys.com/"
         }
     ],
     "lives": [
