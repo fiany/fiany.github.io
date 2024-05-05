@@ -2,213 +2,642 @@
     "wallpaper": "http://api.btstu.cn/sjbz/?lx=meizi",
     "sites": [
       {
-		"key": "py_kunyu77",
-		"name": "酷云77",
-		"type": 3,
-		"api": "py_kunyu77",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_kunyu77.py"
-	}, {
-		"key": "py_bilibili",
-		"name": "哔哩",
-		"type": 3,
-		"api": "py_bilibili",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_bilibili.py"
-	}, {
-		"key": "py_bilivd",
-		"name": "B站(带搜索)",
-		"type": 3,
-		"api": "py_bilivd",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_bilivd.py"
-	},{
-		"key": "py_3qu",
-		"name": "3QU",
-		"type": 3,
-		"api": "py_3qu",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_3qu.py"
-	},{
-		"key": "py_cctv",
-		"name": "央视",
-		"type": 3,
-		"api": "py_cctv",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_cctv.py"
-	},{
-		"key": "py_cctv_full",
-		"name": "央视大全",
-		"type": 3,
-		"api": "py_cctv_full",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_cctv_full.py"
-	},{
-		"key": "py_czspp",
-		"name": "厂长",
-		"type": 3,
-		"api": "py_czspp",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_czspp.py"
-	},{
-		"key": "py_cyys",
-		"name": "创艺",
-		"type": 3,
-		"api": "py_cyys",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_cyys.py"
-	},{
-		"key": "py_zxzj",
-		"name": "在线之家",
-		"type": 3,
-		"api": "py_zxzj",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_zxzj.py"
-	},{
-		"key": "py_voflix",
-		"name": "Voflix",
-		"type": 3,
-		"api": "py_voflix",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_voflix.py"
-	}, {
-		"key": "py_bilimd",
-		"name": "B站影视",
-		"type": 3,
-		"api": "py_bilimd",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_bilimd.py"
-	}, {
-		"key": "py_gimytv",
-		"name": "剧迷",
-		"type": 3,
-		"api": "py_gimytv",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_gimytv.py"
-	}, {
-		"key": "py_genmov",
-		"name": "跟剧",
-		"type": 3,
-		"api": "py_genmov",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_genmov.py"
-	}, {
-		"key": "py_huya",
-		"name": "虎牙",
-		"type": 3,
-		"api": "py_huya",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_huya.py"
-	}, {
-		"key": "py_douyu",
-		"name": "斗鱼",
-		"type": 3,
-		"api": "py_douyu",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_douyu.py"
-	}, {
-		"key": "py_cokemv",
-		"name": "COKE",
-		"type": 3,
-		"api": "py_cokemv",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_cokemv.py"
-	}, {
-		"key": "py_xmaomi",
-		"name": "猫咪",
-		"type": 3,
-		"api": "py_xmaomi",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_xmaomi.py"
-	}, {
-		"key": "py_gitcafe",
-		"name": "小纸条",
-		"type": 3,
-		"api": "py_gitcafe",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_gitcafe.py"
-	}, {
-		"key": "py_yiso",
-		"name": "易搜",
-		"type": 3,
-		"api": "py_yiso",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_yiso.py"
-	}, {
-		"key": "py_zhaozy",
-		"name": "找资源",
-		"type": 3,
-		"api": "py_zhaozy",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_zhaozy.py"
-	}, {
-		"key": "py_alist",
-		"name": "Alist",
-		"type": 3,
-		"api": "py_alist",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_alist.py"
-	}, {
-		"key": "py_pansou",
-		"name": "盘搜",
-		"type": 3,
-		"api": "py_pansou",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_pansou.py"
-	}, {
-		"key": "push_agent",
-		"name": "阿里",
-		"type": 3,
-		"api": "py_ali",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 0,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_ali.py"
-	}
+            "key": "drpy_js_璞嗙摚",
+            "name": "銆愬皬绫炽€戣眴鐡\ufffd",
+            "type": 3,
+            "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
+            "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/douban.js"
+        },
+        {
+            "key": "闃块噷浜戠洏鐧诲綍",
+            "name": "馃惒闃块噷鈹冧簯鐩樼櫥褰\ufffd",
+            "type": 3,
+            "api": "csp_AliYunPan",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt",
+            "jar": "http://tv.nxog.top/m/jar.php?id=ou;md5;34c50af4380beab4dbfeae6c9b41939b"
+        },
+        {
+            "key": " 鍦ㄧ嚎鈹冪洿鎾\ufffd1",
+            "name": "馃摵鈹冪珵鎶€鈹冪洿鎾\ufffd",
+            "type": 3,
+            "api": "csp_Yj1211",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": " 鍦ㄧ嚎鈹冪洿鎾\ufffd2",
+            "name": "馃摵鈹冪綉绾⑩攦鐩存挱",
+            "type": 3,
+            "api": "http://alist.xn--z7x900a.live/ddrpy2.m.js",
+            "ext": "http://alist.xn--z7x900a.live/JustLive.js",
+            "gridview": "0-0-H",
+            "style": {
+                "type": "rect",
+                "ratio": 1.68
+            }
+        },
+        {
+            "key": "cctv",
+            "name": "馃摵鈹冨ぎ瑙嗏攦澶у叏",
+            "type": 3,
+            "api": "csp_CCTV",
+            "searchable": 0,
+            "filterable": 0,
+            "ext": "http://rihou.vip:88/hccx/澶澶у叏.json",
+            "jar": "http://rihou.vip:88/hccx/HeChengChaXiu.jar"
+        },
+        {
+            "key": "py_cctv_灏戝効",
+            "name": "馃摵鈹冨ぎ瑙嗏攦灏戝効",
+            "type": 3,
+            "api": "py_cctv_full",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "http://rihou.vip:88/hccx/py_澶灏戝効.py",
+            "jar": "http://rihou.vip:88/hccx/HeChengChaXiu.jar"
+        },
+        {
+            "key": "澶缁忓吀",
+            "name": "馃摵鈹冨ぎ瑙嗏攦缁忓吀",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://rihou.vip:88/hccx/鍝斿摡缁忓吀.json",
+            "jar": "http://rihou.vip:88/hccx/HeChengChaXiu.jar"
+        },
+        {
+            "key": "drpy_js_310鐩存挱",
+            "name": "鈿解攦310鈹冪洿鎾\ufffd",
+            "type": 3,
+            "api": "http://nxog.eu.org/m/js/nxog.js",
+            "ext": "http://nxog.eu.org/m/js/310.js"
+        },
+        {
+            "key": "drpy_js_88鐪嬬悆",
+            "name": "鈿解攦88鈹冪湅鐞\ufffd",
+            "type": 3,
+            "api": "http://nxog.eu.org/m/js/nxog.js",
+            "ext": "http://nxog.eu.org/m/js/88.js"
+        },
+        {
+            "key": "绉掓挱褰遍櫌",
+            "name": "馃崜鈹冪鎾攦褰遍櫌",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/pdscxz/TV/main/vip/js/miaobo.json",
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/pdscxz/TV/main/vip/jar/dongchen.jar"
+        },
+        {
+            "key": "鍘傞暱",
+            "name": "馃摂鈹冨巶闀库攦鏃犲箍",
+            "type": 3,
+            "api": "csp_Czsapp",
+            "timeout": 15,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.cz233.com/"
+        },
+        {
+            "key": "AI3",
+            "name": "馃AI1鈹冧粎鎼滅储",
+            "type": 3,
+            "api": "csp_AI",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "playerType": 2,
+            "ext": "http://124.222.30.115/mb/api.php/provide/vod/|okhttp/4.9.1|qiaoji",
+            "jar": "http://cdn.qiaoji8.com/fix140412.jar;md5;fc0e5aa90d33991dd6d56a6b1ed616aa"
+        },
+        {
+            "key": "AI2",
+            "name": "馃AI2鈹冧粎鎼滅储",
+            "type": 3,
+            "api": "csp_AI",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "playerType": 2,
+            "ext": "http://124.222.116.5/mb/api.php/provide/vod/|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33|qiaoji",
+            "jar": "http://cdn.qiaoji8.com/fix140412.jar;md5;fc0e5aa90d33991dd6d56a6b1ed616aa"
+        },
+        {
+            "key": "bp",
+            "name": "鉂勶笍鈹冿笍鐧藉珫鈹冨奖瑙\ufffd",
+            "type": 3,
+            "api": "csp_BaiPiao",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.baipiaoys.com:9092/"
+        },
+        {
+            "key": "鐑挱",
+            "name": "馃挕鈹冪儹鎾攦褰辫",
+            "type": 3,
+            "api": "csp_TTian",
+            "ext": "http://v.rbotv.cn",
+            "jar": "http://tv.nxog.top/m/jar.php?id=ou&ou=鍏紬鍙锋姝宎pp;md5;5f17d8fe24bbde9e1bd24189ae3cde21"
+        },
+        {
+            "key": "蹇湅",
+            "name": "馃挕鈹冨揩鐪嬧攦褰辫",
+            "type": 3,
+            "api": "csp_Kuaikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://tv.nxog.top/m/jar.php?id=ou&ou=鍏紬鍙锋姝宎pp;md5;5f17d8fe24bbde9e1bd24189ae3cde21"
+        },
+        {
+            "key": "鏂拌瑙\ufffd",
+            "name": "馃惁鈹冭瑙夆攦褰辫",
+            "type": 3,
+            "api": "csp_Xinsj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.80yy3.com/",
+            "jar": "https://cloud.lxweb.cn/f/ePJWIa/PandaQ240416.jar;md5;9f15ade02721f30f65880bef1271be69"
+        },
+        {
+            "key": "csp_Juqq",
+            "name": "猸曗攦鍓у湀鈹冨奖瑙\ufffd",
+            "type": 3,
+            "playerType": "2",
+            "api": "csp_Juqq",
+            "jar": "https://cloud.lxweb.cn/f/ePJWIa/PandaQ240416.jar;md5;9f15ade02721f30f65880bef1271be69"
+        },
+        {
+            "key": "csp_NfApp",
+            "name": "馃敺鈹冨崡鍧娾攦褰辫",
+            "type": 3,
+            "playerType": "2",
+            "api": "csp_NfApp",
+            "jar": "https://cloud.lxweb.cn/f/ePJWIa/PandaQ240416.jar;md5;9f15ade02721f30f65880bef1271be69"
+        },
+        {
+            "key": "鐧藉珫",
+            "name": "馃寘鈹冪櫧瀚栤攦褰辫",
+            "type": 3,
+            "api": "csp_BaiPiao",
+            "playerType": "2",
+            "jar": "https://cloud.lxweb.cn/f/ePJWIa/PandaQ240416.jar;md5;9f15ade02721f30f65880bef1271be69"
+        },
+        {
+            "key": "csp_Panda_鐜╁伓鍝ュ摜",
+            "name": "馃懖鈹冪帺鍋垛攦褰辫鈶\ufffd",
+            "api": "csp_Wogg",
+            "type": 3,
+            "searchable": 1,
+            "playerType": 2,
+            "timeout": 30,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/fatcat/token.txt",
+            "jar": "https://cloud.lxweb.cn/f/ePJWIa/PandaQ240416.jar;md5;9f15ade02721f30f65880bef1271be69"
+        },
+        {
+            "key": "鑽愮墖",
+            "name": "馃Р鈹冭崘鐗団攦纾佸姏",
+            "type": 3,
+            "api": "http://rihou.vip:55/lib/drpy2.min.js",
+            "ext": "http://rihou.vip:55/lib/jianpian.js"
+        },
+        {
+            "key": "6v",
+            "name": "馃Р鈹冩柊6V鈹冪鍔\ufffd",
+            "type": 3,
+            "api": "csp_New6v",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://www.xb6v.com",
+            "jar": "https://jihulab.com/xiaohutx/meisha/-/raw/main/xh.jar"
+        },
+        {
+            "key": "鍗楃摐",
+            "name": "馃巸鈹冨崡鐡溾攦褰辫",
+            "type": 3,
+            "api": "csp_AppYSDQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "jar": "http://tv.nxog.top/m/jar.php?id=ou&ou=鍏紬鍙锋姝宎pp;md5;10e0197bf1b477a4eefa78b71aef687e"
+        },
+        {
+            "key": "灏忔煔",
+            "name": "鉂も攦灏忔煔鈹傾pp",
+            "type": 3,
+            "api": "csp_AppSK",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="
+        },
+        {
+            "key": "drpy_渚ソ",
+            "name": "馃挅鈹冨垎浜攦vip",
+            "type": 3,
+            "api": "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
+            "ext": "https://pan.shangui.cc/f/2ZJ8hx/ygfxz.js"
+        },
+        {
+            "key": "FEIYUN",
+            "name": "馃挅鈹冨垎浜攦椋炰簯",
+            "type": 3,
+            "api": "https://agit.ai/66666/mao2/raw/branch/main/MaooXB2/AppysV2.js",
+            "ext": {
+                "host": "http://122.228.84.103:6117/api.php/app/",
+                "*": [
+                    "http://122.228.84.103:7777/api/?key=AIN9Y1Sca7qJSzInL5&url="
+                ]
+            }
+        },
+        {
+            "key": "楦椋\ufffd",
+            "name": "馃槑鈹冨椋炩攦褰辫",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://yanetflix.me/api.php/app/"
+        },
+        {
+            "key": "drpy_js_360褰辫",
+            "name": "馃А鈹\ufffd360鈹冨畼婧\ufffd",
+            "type": 3,
+            "api": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/lib/drpy2.min.js",
+            "ext": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js/360%E5%BD%B1%E8%A7%86.js"
+        },
+        {
+            "key": "AList",
+            "name": "馃摃鈹冮泤闆呪攦4K",
+            "type": 3,
+            "api": "csp_AList",
+            "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/smdy.jar",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": "https://gitee.com/dongchenys/liu/raw/master/json/Alist.json"
+        },
+        {
+            "key": "meowtv_nmys",
+            "name": "馃尵鈹冨啘姘戔攦褰辫",
+            "type": 3,
+            "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://cdn.teyonds.com/js/鍐滄皯褰辫.js"
+        },
+        {
+            "key": "閰风湅",
+            "name": "馃槑鈹冮叿鐪嬧攦App",
+            "type": 3,
+            "api": "csp_Kkys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "钀岀背",
+            "name": "馃憖鈹冭悓绫斥攦App",
+            "type": 3,
+            "api": "csp_AppMao",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"
+        },
+        {
+            "key": "77",
+            "name": "馃憭鈹冧竷涓冣攦App",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "濂堥涓枃",
+            "name": "馃帡鈹冨椋炩攦绉掓挱",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://qrh.yimkj.cn/ym/lib/nfzw.json",
+            "jar": "http://qrh.yimkj.cn/ym/lib/ttkx.jar;md5;c253e1930a210fa5141e5418f1f90949"
+        },
+        {
+            "key": "csp_xBPQ_濂囦紭",
+            "name": "馃帵鈹冨浼樷攦绉掓挱",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://rihou.vip:55/lib/qiyou.json",
+            "jar": "http://rihou.vip:55/lib/ttkx.jar"
+        },
+        {
+            "key": "ikunzy",
+            "name": "馃悡鈹冪埍鍧も攦璧勬簮",
+            "type": 1,
+            "api": "https://ikunzyapi.com/api.php/provide/vod ",
+            "searchable": 1,
+            "filterable": 0,
+            "categories": [
+                "娆х編鍓\ufffd",
+                "闊╁墽",
+                "鏃ュ墽",
+                "鍔ㄤ綔鐗\ufffd",
+                "鍠滃墽鐗\ufffd",
+                "鐖辨儏鐗\ufffd",
+                "绉戝够鐗\ufffd",
+                "鎭愭€栫墖",
+                "鍓ф儏鐗\ufffd",
+                "鎴樹簤鐗\ufffd"
+            ]
+        },
+        {
+            "key": "涓€璧风湅 ",
+            "name": "鉂も攦涓€璧封攦2K",
+            "type": 3,
+            "api": "csp_YQKan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Bili",
+            "name": "馃叡鈹冨摂鍝斺攦鍚堥泦",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "ext": "http://www.lyyytv.cn/yt/bili/bili.json"
+        },
+        {
+            "key": "璞崕璧勬簮",
+            "name": "馃帴鈹冭豹鍗庘攦璧勬簮",
+            "type": 1,
+            "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
+                "鍐呭湴鍓\ufffd",
+                "棣欐腐鍓\ufffd",
+                "娆х編鍓\ufffd",
+                "闊╁墽",
+                "鏃ュ墽",
+                "椹嘲鍓\ufffd",
+                "鍙版咕鍓\ufffd",
+                "鍔ㄧ敾鐗\ufffd",
+                "涓浗鍔ㄦ极",
+                "鏃ユ湰鍔ㄦ极",
+                "娆х編鍔ㄦ极",
+                "鍓ф儏鐗\ufffd",
+                "鎴樹簤鐗\ufffd",
+                "鍔ㄤ綔鐗\ufffd",
+                "绉戝够鐗\ufffd",
+                "璁板綍鐗\ufffd",
+                "鐖辨儏鐗\ufffd",
+                "鍠滃墽鐗\ufffd",
+                "鐏鹃毦鐗\ufffd",
+                "鎮枒鐗\ufffd",
+                "鐘姜鐗\ufffd",
+                "澶ч檰缁艰壓",
+                "鏃ラ煩缁艰壓",
+                "娓彴缁艰壓",
+                "娆х編缁艰壓"
+            ]
+        },
+        {
+            "key": "hnzy",
+            "name": "馃帴鈹冪孩鐗涒攦璧勬簮",
+            "type": 1,
+            "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+            "searchable": 1,
+            "filterable": 0,
+            "categories": [
+                "娆х編鍓\ufffd",
+                "闊╁墽",
+                "鏃ュ墽",
+                "鍔ㄤ綔鐗\ufffd",
+                "鍠滃墽鐗\ufffd",
+                "鐖辨儏鐗\ufffd",
+                "绉戝够鐗\ufffd",
+                "鎭愭€栫墖",
+                "鍓ф儏鐗\ufffd",
+                "鎴樹簤鐗\ufffd"
+            ]
+        },
+        {
+            "key": "gszy",
+            "name": "馃帴鈹冨厜閫熲攦璧勬簮",
+            "type": 1,
+            "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "filterable": 0,
+            "categories": [
+                "娆х編鍓\ufffd",
+                "闊╁墽",
+                "鏃ュ墽",
+                "鍔ㄤ綔鐗\ufffd",
+                "鍠滃墽鐗\ufffd",
+                "鐖辨儏鐗\ufffd",
+                "绉戝够鐗\ufffd",
+                "鎭愭€栫墖",
+                "鍓ф儏鐗\ufffd",
+                "鎴樹簤鐗\ufffd"
+            ]
+        },
+        {
+            "key": "lzzy",
+            "name": "馃帴鈹冮噺瀛愨攦璧勬簮",
+            "type": 1,
+            "api": "https://cj.lziapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "filterable": 0,
+            "categories": [
+                "鍥戒骇鍔ㄦ极",
+                "鏃ラ煩鍔ㄦ极",
+                "澶ч檰鍓\ufffd",
+                "娆х編鍓\ufffd",
+                "闊╁墽",
+                "鏃ュ墽",
+                "鍔ㄤ綔鐗\ufffd",
+                "鍠滃墽鐗\ufffd",
+                "鐖辨儏鐗\ufffd",
+                "绉戝够鐗\ufffd",
+                "鎭愭€栫墖",
+                "鍓ф儏鐗\ufffd",
+                "鎴樹簤鐗\ufffd"
+            ]
+        },
+        {
+            "key": "snzy",
+            "name": "馃帴鈹冪储灏尖攦璧勬簮",
+            "type": 1,
+            "api": "https://suoniapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "filterable": 0,
+            "categories": [
+                "娆х編鍓\ufffd",
+                "闊╁墽",
+                "鏃ュ墽",
+                "鍔ㄤ綔鐗\ufffd",
+                "鍠滃墽鐗\ufffd",
+                "鐖辨儏鐗\ufffd",
+                "绉戝够鐗\ufffd",
+                "鎭愭€栫墖",
+                "鍓ф儏鐗\ufffd",
+                "鎴樹簤鐗\ufffd"
+            ]
+        },
+        {
+            "key": "drpy_js_310鐩存挱",
+            "name": "鈿\ufffd310鐩存挱",
+            "type": 3,
+            "api": "https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "ext": "https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/js/310鐩存挱.js"
+        },
+        {
+            "key": "MV_vod",
+            "name": "鈿♀攦鏄庢槦鈹僊V",
+            "type": 3,
+            "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/MTV.json"
+        },
+        {
+            "key": "鐩稿０灏忓搧",
+            "name": "馃槏鈹冪浉澹扳攦灏忓搧",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/pdscxz/TV/main/vip/js/鐩稿０灏忓搧.json"
+        },
+        {
+            "key": "鎴\ufffd 鏇\ufffd",
+            "name": "馃懙鈹冭€佸勾鈹冩垙鏇\ufffd",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/pdscxz/TV/main/vip/js/%E6%88%8F%E6%9B%B2.json"
+        },
+        {
+            "key": "妯増褰遍櫌",
+            "name": "馃摴鈹冪煭鍓\ufffd1鈹冪煭鍓\ufffd",
+            "type": 1,
+            "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "鐭墽"
+            ],
+            "jar": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/jar.php?id=ou;md5;9ea1375c4736da2b76f3f1296f6b276b"
+        },
+        {
+            "key": "鐭墽",
+            "name": "馃摴鈹冪煭鍓р攦鐭墽2",
+            "type": 3,
+            "api": "csp_App",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://zzdj.cc/api.php/provide/vod",
+            "jar": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/jar.php?id=ou;md5;9ea1375c4736da2b76f3f1296f6b276b"
+        },
+        {
+            "key": "csp_WoGG",
+            "name": "馃懡鈹冪帺鍋垛攦4K鈶\ufffd",
+            "type": 3,
+            "api": "csp_WoGG",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$寮\ufffd"
+        },
+        {
+            "key": "YiSo",
+            "name": "馃樄鈹冩槗鎼溾攦鎼滅储",
+            "type": 3,
+            "api": "csp_YiSo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+        },
+        {
+            "key": "PanSou",
+            "name": "馃鈹冪洏鎼溾攦鎼滅储",
+            "type": 3,
+            "api": "csp_PanSou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+        },
+        {
+            "key": "UpYun",
+            "name": "馃樆鈹僓p鎼溾攦鎼滅储",
+            "type": 3,
+            "api": "csp_UpYun",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+        },
+        {
+            "key": "PanSearch",
+            "name": "馃檧鈹冪洏Se鈹冩悳绱\ufffd",
+            "type": 3,
+            "api": "csp_PanSearch",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+        },
+        {
+            "key": "push_agent",
+            "name": "馃摻鎺ㄩ€\ufffd",
+            "type": 3,
+            "api": "csp_PushAgent",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "jar": "http://tv.nxog.top/m/jar.php?id=ou;md5;d437c6e042174f181efd9649a1a33f48",
+            "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
+        }
     ],
     "lives": [
         {
